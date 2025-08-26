@@ -2,7 +2,7 @@
 
 - <strong>S. Li</strong>, X. Yang*, A. Cao*, K. Fan, Y. Liu, C. Wang, and Q. Niu. LaNCoR: Label Noise-Contrastive Robust Learning for Seismic Signal Processing with Application to Microseismic Arrival Time Picking. <strong>Rej :)</strong> [[Code]](https://github.com/senli1073/LaNCor)
 -->
-#### Full publicatioin can be found in [[GoogleScholar]](https://scholar.google.com/citations?user=1VNDmEYAAAAJ&hl=en)(*-corresponding author)
+#### Full publications can be found in [[GoogleScholar]](https://scholar.google.com/citations?user=1VNDmEYAAAAJ&hl=en)(*-corresponding author)
 
 - Chenyuan He, <strong>Yuxiang Jia*</strong>, Fei Gao, Senbin Zhu, Hongde Liu, Hongying Zan, Min Peng. Task-aware Contrastive Mixture of Experts for Quadruple Extraction in Conversations with Code-like Replies and Non-opinion Detection. <strong>EMNLP2025</strong>. (Long paper, <strong>CCF B</strong>)
 - Xiaoqing Cheng, Ruizhe Chen, Hongying Zan, <strong>Yuxiang Jia</strong>, Min Peng. BiasFilter: An Inference-Time Debiasing Framework for Large Language Models. <strong>EMNLP2025</strong>. (Findings)
