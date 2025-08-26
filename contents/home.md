@@ -11,8 +11,7 @@ M.E., Computer Science and Technology, Zhengzhou University, 2003—2006.\
 B.E., Computer Science and Technology, Zhengzhou University, 1999—2003.
 
 #### Research Interests
-Natural Language Processing and Large Language Models, especially in Sentiment Analysis, Information Extraction, and Computational Social Science.
+Natural Language Processing and Large Language Models, especially Sentiment Analysis, Information Extraction, and Computational Social Science.
 
 #### Contact
-
 Email: ieyxjia[at]zzu.edu.cn
