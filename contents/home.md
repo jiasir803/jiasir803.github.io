@@ -2,7 +2,7 @@
 
 [![jiasir803](https://img.shields.io/badge/jiasir803-github-blue?logo=github)](https://github.com/jiasir803)
 
-He is currently an Associate Professor in the School of Computer Science and Artificial Intelligence, Zhengzhou University.
+He is currently an Associate Professor and Master Supervisor in the School of Computer Science and Artificial Intelligence, Zhengzhou University. He is a member of the Youth Working Committee of the Chinese Information Processing Society of China (CIPS) and a member of the Technical Committee of Natural Language Processing (NLP) of China Computer Federation (CCF). He hosted several research projects granted by the National Natural Science Foundation of China, the China Postdoctoral Science Foundation, etc. He published multiple papers in important conferences and journals in NLP fields, like AAAI, EMNLP, COLING, ICASSP, NLPCC, ACM TALLIP, Journal of Chinese Information Processing, etc.
 
 #### Contact
 
