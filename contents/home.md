@@ -9,7 +9,7 @@ He is currently an Associate Professor in the School of Computer Science and Art
 Email: ieyxjia[at]zzu.edu.cn
 
 #### Education
-Phd., Computer Software and Theory, Peking University, 2006—2010.\
+Ph.D., Computer Software and Theory, Peking University, 2006—2010.\
 M.E., Computer Science and Technology, Zhengzhou University, 2003—2006.\
 B.E., Computer Science and Technology, Zhengzhou University, 1999—2003.
 
